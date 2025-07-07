@@ -69,3 +69,6 @@ Key indicators include:
 2. Open in **Tableau Desktop** or **Tableau Public**.
 3. Explore interactive filters by Region, Year, Country, etc.
 4. View visualizations showing trends in health and development.
+
+![image](https://github.com/user-attachments/assets/ceeedbbc-32d8-4497-94c0-dd508aa3fbda)
+
