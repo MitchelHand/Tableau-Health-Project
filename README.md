@@ -42,7 +42,7 @@ Key indicators include:
 
 ## 📸 Dashboard Preview
 
-![Tableau Dashboard Screenshot](https://public.tableau.com/app/profile/mitchel.hand/viz/3_1_Your_first_symbol_maporiginal_17518999971600/Dashboard1?publish=yes)
+[Tableau Dashboard Screenshot](https://public.tableau.com/app/profile/mitchel.hand/viz/3_1_Your_first_symbol_maporiginal_17518999971600/Dashboard1?publish=yes)
 
 ---
 
